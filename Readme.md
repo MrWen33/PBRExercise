@@ -10,3 +10,9 @@ Shader文件位于`Assets/Shaders/`下
 * 间接光:
   * 漫反射: Spherical Harmonics
   * 镜面反射: Split Sum, BRDF integration
+
+
+
+## 渲染效果图
+
+![balls](photos\balls.png)
