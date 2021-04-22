@@ -15,4 +15,4 @@ Shader文件位于`Assets/Shaders/`下
 
 ## 渲染效果图
 
-![balls](photos\balls.png)
+![balls](photos/balls.png)
